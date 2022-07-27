@@ -4,225 +4,232 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://www.playwithworld.org/</loc>
-<lastmod>2022-07-25T09:09:53-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2022-07-27T21:41:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/pages/shi-ti-dian-yin-liu-xi-tong.html</loc>
+<loc>./pages/shi-ti-dian-yin-liu-xi-tong.html</loc>
 <lastmod>2020-05-07T10:48:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/pages/jing-dian-jing-qu-yin-liu-xi-tong.html</loc>
+<loc>./pages/jing-dian-jing-qu-yin-liu-xi-tong.html</loc>
 <lastmod>2020-05-07T10:48:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/xian-you-ju-ben-sha-lu-you-lie-biao.html</loc>
+<loc>./yi-chan-pin-wei-zhu-dao-de-nei-rong-ce-lue-de-wan-zheng-zhi-nan-fu-shi-li.html</loc>
+<lastmod>2022-07-26T12:05:03+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>./xian-you-ju-ben-sha-lu-you-lie-biao.html</loc>
 <lastmod>2022-07-25T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/how-to-be-a-buddha.html</loc>
+<loc>./how-to-be-a-buddha.html</loc>
 <lastmod>2022-07-23T12:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/mo-shi-cheng-jing.html</loc>
+<loc>./mo-shi-cheng-jing.html</loc>
 <lastmod>2022-07-23T10:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/9jian-shi-ken-ding-zai-dian-zi-shang-wu-wang-zhan-tui-dong-xiao-shou.html</loc>
+<loc>./9jian-shi-ken-ding-zai-dian-zi-shang-wu-wang-zhan-tui-dong-xiao-shou.html</loc>
 <lastmod>2022-07-23T09:28:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/e-liao-jiu-chi.html</loc>
+<loc>./e-liao-jiu-chi.html</loc>
 <lastmod>2022-07-23T09:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/tiktokyan-gao-mian-fei-zhi-nan.html</loc>
+<loc>./tiktokyan-gao-mian-fei-zhi-nan.html</loc>
 <lastmod>2022-03-26T09:52:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/bao-zheng-neng-rang-ni-shui-jue-de-fang-fa.html</loc>
+<loc>./bao-zheng-neng-rang-ni-shui-jue-de-fang-fa.html</loc>
 <lastmod>2020-06-02T12:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/shui-fu-zhao-ni.html</loc>
+<loc>./shui-fu-zhao-ni.html</loc>
 <lastmod>2020-06-02T12:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/yu-wang-de-gu-shi.html</loc>
+<loc>./yu-wang-de-gu-shi.html</loc>
 <lastmod>2020-06-02T12:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/kuai-le-de-10chong-fang-fa.html</loc>
+<loc>./kuai-le-de-10chong-fang-fa.html</loc>
 <lastmod>2020-05-27T21:20:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/yong-yun-dong-xie-you-xi-lian-jie-xu-ni-he-zhen-shi-shi-jie.html</loc>
+<loc>./yong-yun-dong-xie-you-xi-lian-jie-xu-ni-he-zhen-shi-shi-jie.html</loc>
 <lastmod>2020-05-27T21:20:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/kan-na-ke-shu.html</loc>
+<loc>./kan-na-ke-shu.html</loc>
 <lastmod>2020-05-27T21:15:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/odooyi-kuan-man-zu-suo-you-xu-qiu-de-ying-yong.html</loc>
+<loc>./odooyi-kuan-man-zu-suo-you-xu-qiu-de-ying-yong.html</loc>
 <lastmod>2020-02-25T11:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/top-10-shopify-seo-ying-yong-cheng-xu-he-gong-ju-yi-zeng-qiang-zi-ran-pai-ming.html</loc>
+<loc>./top-10-shopify-seo-ying-yong-cheng-xu-he-gong-ju-yi-zeng-qiang-zi-ran-pai-ming.html</loc>
 <lastmod>2020-02-25T11:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/you-xi-hua-pei-xun-shi-li-vimhu-dong-pei-xun.html</loc>
+<loc>./you-xi-hua-pei-xun-shi-li-vimhu-dong-pei-xun.html</loc>
 <lastmod>2020-02-25T11:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/guan-yu-wo-men.html</loc>
+<loc>./guan-yu-wo-men.html</loc>
 <lastmod>2020-02-25T10:20:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/chao-xiu-xian-you-xi-de-yan-jiu-bao-gao.html</loc>
+<loc>./chao-xiu-xian-you-xi-de-yan-jiu-bao-gao.html</loc>
 <lastmod>2020-02-24T12:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/guan-yu-you-xi-hua-pei-xun-he-xiao-shou-de-shu.html</loc>
+<loc>./guan-yu-you-xi-hua-pei-xun-he-xiao-shou-de-shu.html</loc>
 <lastmod>2020-02-24T12:05:03+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/ping-guo-tui-chu-yong-you-xi-de-fang-shi-xue-xi-bian-cheng.html</loc>
+<loc>./ping-guo-tui-chu-yong-you-xi-de-fang-shi-xue-xi-bian-cheng.html</loc>
 <lastmod>2020-02-11T12:48:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/blog.html</loc>
+<loc>./category/blog.html</loc>
 <lastmod>2020-02-25T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/chinazen.html</loc>
+<loc>./category/chinazen.html</loc>
 <lastmod>2022-07-23T12:05:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/jing-wai-dian-shang-seo.html</loc>
-<lastmod>2022-07-23T09:28:03+08:06</lastmod>
+<loc>./category/jing-wai-dian-shang-seo.html</loc>
+<lastmod>2022-07-26T12:05:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/kua-jing-dian-shang-seo.html</loc>
+<loc>./category/kua-jing-dian-shang-seo.html</loc>
 <lastmod>2022-03-26T09:52:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/ming-xiang.html</loc>
+<loc>./category/ming-xiang.html</loc>
 <lastmod>2020-06-02T12:05:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/misc.html</loc>
+<loc>./category/misc.html</loc>
 <lastmod>2022-07-25T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/odoo.html</loc>
+<loc>./category/odoo.html</loc>
 <lastmod>2020-02-25T11:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/category/playwithworld.html</loc>
+<loc>./category/playwithworld.html</loc>
 <lastmod>2020-05-27T21:20:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/author/sing.html</loc>
+<loc>./author/sing.html</loc>
 <lastmod>2022-07-25T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/author/singmj.html</loc>
-<lastmod>2022-07-23T12:05:03+08:06</lastmod>
+<loc>./author/singmj.html</loc>
+<lastmod>2022-07-26T12:05:03+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
