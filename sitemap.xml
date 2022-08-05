@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2022-08-01T17:31:26-00:00</lastmod>
+<lastmod>2022-08-05T10:55:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -22,6 +22,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-05-07T10:48:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
+</url>
+
+<url>
+<loc>./mian-fei-de-aacyu-yin-fu-zhu-jiao-liu-ruan-jian.html</loc>
+<lastmod>2022-08-05T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>./wei-pa-jin-sen-ren-shi-she-ji-de-wo-shao-qi.html</loc>
+<lastmod>2022-08-05T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -249,8 +263,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/zhang-ai-ren-shi.html</loc>
+<lastmod>2022-08-05T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./author/sing.html</loc>
-<lastmod>2022-08-01T00:00:00+08:06</lastmod>
+<lastmod>2022-08-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
