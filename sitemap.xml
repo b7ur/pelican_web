@@ -5,23 +5,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/</loc>
-<lastmod>2022-08-07T21:25:23-00:00</lastmod>
+<lastmod>2022-08-09T10:44:12-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.playwithworld.org/pages/shi-ti-dian-yin-liu-xi-tong.html</loc>
-<lastmod>2020-05-07T10:48:00+08:00</lastmod>
+<loc>https://www.playwithworld.org/zheng-nian-ming-xiang-xiang-guan-de-shan-xiu-shu.html</loc>
+<lastmod>2022-08-09T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
-<priority>0.3</priority>
-</url>
-
-<url>
-<loc>https://www.playwithworld.org/pages/jing-dian-jing-qu-yin-liu-xi-tong.html</loc>
-<lastmod>2020-05-07T10:48:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.3</priority>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -299,14 +292,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/category/zheng-nian-ming-xiang.html</loc>
-<lastmod>2022-08-07T00:00:00+08:06</lastmod>
+<lastmod>2022-08-09T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.playwithworld.org/author/sing.html</loc>
-<lastmod>2022-08-07T00:00:00+08:06</lastmod>
+<lastmod>2022-08-09T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
