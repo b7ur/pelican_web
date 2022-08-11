@@ -5,9 +5,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/</loc>
-<lastmod>2022-08-11T09:29:00-00:00</lastmod>
+<lastmod>2022-08-11T22:09:05-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.playwithworld.org/seojiu-shi-ying-xiao.html</loc>
+<lastmod>2022-08-11T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -236,7 +243,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/category/jing-wai-dian-shang-seo.html</loc>
-<lastmod>2022-08-01T00:00:00+08:06</lastmod>
+<lastmod>2022-08-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -299,7 +306,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/author/sing.html</loc>
-<lastmod>2022-08-09T00:00:00+08:06</lastmod>
+<lastmod>2022-08-11T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
