@@ -5,9 +5,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/</loc>
-<lastmod>2022-08-11T22:09:05-00:00</lastmod>
+<lastmod>2022-08-17T15:30:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.playwithworld.org/die-shi-tou-wei-shi-yao-shi-huan-jie-jiao-lu-zui-hao-de-fang-fa.html</loc>
+<lastmod>2022-08-17T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -257,7 +264,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/category/ming-xiang.html</loc>
-<lastmod>2022-07-30T00:00:00+08:06</lastmod>
+<lastmod>2022-08-17T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -306,7 +313,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.playwithworld.org/author/sing.html</loc>
-<lastmod>2022-08-11T00:00:00+08:06</lastmod>
+<lastmod>2022-08-17T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
