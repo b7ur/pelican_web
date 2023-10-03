@@ -1,205 +1,142 @@
-<!doctype html>
-<html class="no-js" lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-		<title>zen|tech|seo|</title>
-		<meta name="description" content="">
-		<meta name="author" content="sing">
+<!DOCTYPE html>
+<html lang="chinese (simplified)">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="" />
 
-		<link rel="stylesheet" href="/theme/css/foundation.css" />
-		<link rel="stylesheet" href="/theme/css/pygment/monokai.css" />
-		<link rel="stylesheet" href="/theme/css/custom.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 
-
-		<script src="/theme/js/modernizr.js"></script>
-
-		<!-- Feeds -->
+    <link rel="stylesheet" type="text/css" href="/theme/stylesheet/style.min.css">
 
 
-		<!-- mathjax config similar to math.stackexchange -->
-		<script type="text/x-mathjax-config">
-		MathJax.Hub.Config({
-			jax: ["input/TeX", "output/HTML-CSS"],
-			tex2jax: {
-				inlineMath: [ ['$', '$'] ],
-				displayMath: [ ['$$', '$$']],
-				processEscapes: true,
-				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-			},
-			messageStyle: "none",
-			"HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
-		});
-		</script>
-		<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-	</head>
-	<body>
-		<div class="off-canvas-wrap">
-			<div class="inner-wrap">
-				<!-- mobile top bar to activate nav -->
-				<nav class="tab-bar show-for-small">
-					<section class="left-small">
-						<a class="left-off-canvas-toggle menu-icon" ><span></span></a>
-					</section>
-
-					<section class="middle tab-bar-section">
-						<h1 class="title">zen|tech|seo|</h1>
-					</section>
-				</nav>
-
-				<!-- mobile side bar nav -->
-				<aside class="left-off-canvas-menu">
-					<ul class="off-canvas-list">
-						<li><a href="">Home</a></li>
-						<li><label>Categories</label></li>
-							<li ><a href="/category/blog.html">blog</a></li>
-							<li ><a href="/category/chinazen.html">chinazen</a></li>
-							<li ><a href="/category/jing-wai-dian-shang-seo.html">境外电商SEO</a></li>
-							<li ><a href="/category/kua-jing-dian-shang-seo.html">跨境电商SEO</a></li>
-							<li class="active"><a href="/category/ming-xiang.html">冥想</a></li>
-							<li ><a href="/category/misc.html">misc</a></li>
-							<li ><a href="/category/odoo.html">odoo</a></li>
-							<li ><a href="/category/photoshop.html">photoshop</a></li>
-							<li ><a href="/category/playwithworld.html">playWithWorld</a></li>
-							<li ><a href="/category/zhang-ai-ren-shi.html">障碍人士</a></li>
-							<li ><a href="/category/zheng-nian-ming-xiang.html">正念冥想</a></li>
-
-						<li><label>Places</label></li>
-							<li><a href="https://getpelican.com/">Pelican</a></li>
-							<li><a href="https://www.python.org/">Python.org</a></li>
-							<li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
-							<li><a href="#">You can modify those links in your config file</a></li>
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          href="/theme/pygments/github.min.css">
 
 
 
-						<li><label>Links</label></li>
-							<li><a href="#">Another social link</a></li>
-							<li><a href="#">You can add links in your config file</a></li>
-					</ul>	
-				</aside>
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/solid.css">
 
-				<!-- top bar nav -->
-				<nav class="top-bar hide-for-small-only" data-topbar>
-					<ul class="title-area">
-						<li class="name">
-							<h1><a href="/">zen|tech|seo|</a></h1>
-						</li>
-					</ul>
 
-					<section class="top-bar-section">
-						<ul class="left">
-								<li ><a href="/category/blog.html">blog</a></li>
-								<li ><a href="/category/chinazen.html">chinazen</a></li>
-								<li ><a href="/category/jing-wai-dian-shang-seo.html">境外电商SEO</a></li>
-								<li ><a href="/category/kua-jing-dian-shang-seo.html">跨境电商SEO</a></li>
-								<li class="active"><a href="/category/ming-xiang.html">冥想</a></li>
-								<li ><a href="/category/misc.html">misc</a></li>
-								<li ><a href="/category/odoo.html">odoo</a></li>
-								<li ><a href="/category/photoshop.html">photoshop</a></li>
-								<li ><a href="/category/playwithworld.html">playWithWorld</a></li>
-								<li ><a href="/category/zhang-ai-ren-shi.html">障碍人士</a></li>
-								<li ><a href="/category/zheng-nian-ming-xiang.html">正念冥想</a></li>
-						</ul>
-					</section>
-				</nav>
 
-				<!-- Main Page Content and Sidebar -->
-				<section class="main-section">
-					<div class="row">
-						<!-- Main Content -->
-						<div class="medium-9 small-12 columns" role="content">
-							<div class="row">
-								<div class="small-12 columns">
-									<h2>Category: 冥想</h2>
-								</div>
-							</div>
+
+
+
+
+
+
+
+
+
+ 
+
+    <meta name="author" content="sing" />
+    <meta name="description" content="" />
+  <meta property="og:site_name" content="zen|tech|seo|"/>
+  <meta property="og:type" content="blog"/>
+  <meta property="og:title" content="zen|tech|seo|"/>
+  <meta property="og:description" content=""/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:url" content=""/>
+
+  <title>zen|tech|seo| &ndash; Category 冥想</title>
+
+
+</head>
+<body class="light-theme">
+
+<aside>
+  <div>
+    <a href="/">
+      <img src="/theme/img/profile.png" alt="" title="">
+    </a>
+
+    <h1>
+      <a href="/"></a>
+    </h1>
+
+
+
+    <nav>
+      <ul class="list">
+
+
+            <li>
+              <a target="_self"
+                 href="/pages/guan-yu-wo-men.html#guan-yu-wo-men">
+                关于我们
+              </a>
+            </li>
+
+          <li>
+            <a target="_self" href="https://www.playwithworld.cn/" >跨境电商数据服务提供商</a>
+          </li>
+      </ul>
+    </nav>
+
+    <ul class="social">
+      <li>
+        <a class="sc-weibo"
+           href="https://weibo.com/u/1670681212"
+           target="_blank">
+          <i class="fa-brands fa-weibo"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</aside>
+  <main>
+
+
+
 
 <article>
-	<h3><a href="/die-shi-tou-wei-shi-yao-shi-huan-jie-jiao-lu-zui-hao-de-fang-fa.html">叠石头为什么是缓解焦虑最好的方法</a></h3>
-	<h6>Written by <a href="/author/sing.html">sing</a> in <a href="/category/ming-xiang.html">冥想</a> on 周三 17 八月 2022.</h6>
-	<p><img alt="叠石头" src="./pictures/stack_stone.webp"></p>
-<h2>叠石头能够缓解焦虑的理由:</h2>
-<p>1，叠石头并不容易，需要你集中注意力去做，当你集中注意力在另外一件事的时候，你就不会 …</p>
-		<p class="continue"><a href="/die-shi-tou-wei-shi-yao-shi-huan-jie-jiao-lu-zui-hao-de-fang-fa.html">Continue reading &raquo;</a></p>
+  <header>
+    <h2><a href="/chu-xue-zhe-ru-he-kai-shi-ming-xiang.html#chu-xue-zhe-ru-he-kai-shi-ming-xiang">初学者如何开始冥想</a></h2>
+    <p>
+      Posted on 周二 03 十月 2023 in <a href="/category/ming-xiang.html">冥想</a>
+
+
+    </p>
+  </header>
+  <div>
+      <div><h1>初学者如何开始冥想</h1>
+<p>本文来自<a href="https://quietkit.com/">quietkit</a>,在这个网站上有个应用，你可以在上面按照提示完成冥想。
+QuietKit为初学者提供了一种非常简单，直接的引导冥想类型，非常 …</p></div>
+        <br>
+        <a class="btn"
+           href="/chu-xue-zhe-ru-he-kai-shi-ming-xiang.html#chu-xue-zhe-ru-he-kai-shi-ming-xiang">
+          Continue reading
+        </a>
+  </div>
 </article>
-<hr />
-<article>
-	<h3><a href="/ru-he-zheng-nian-ming-xiang.html">如何正念冥想</a></h3>
-	<h6>Written by <a href="/author/sing.html">sing</a> in <a href="/category/ming-xiang.html">冥想</a> on 周六 30 七月 2022.</h6>
-	<ul>
-<li>盲眼食物静观：在团体治疗当中，学习觉察的学员暂时闭上眼睛，由主导觉察的医事人员，发给一个可以食用的食物（最典型 …</li></ul>
-		<p class="continue"><a href="/ru-he-zheng-nian-ming-xiang.html">Continue reading &raquo;</a></p>
-</article>
-<hr />
-<article>
-	<h3><a href="/kuai-le-de-10chong-fang-fa.html">快乐的10种方法</a></h3>
-	<h6>Written by <a href="/author/sing.html">sing</a> in <a href="/category/ming-xiang.html">冥想</a> on 周三 27 五月 2020.</h6>
-	<h2>快乐的10种方法</h2>
-<ul>
-<li>不管你喜不喜欢这件事，你都要全情投入去做。即使你真不喜欢这件事，接受你不喜欢这件事的事实。明白你不喜 …</li></ul>
-		<p class="continue"><a href="/kuai-le-de-10chong-fang-fa.html">Continue reading &raquo;</a></p>
-</article>
-<hr />
-<article>
-	<h3><a href="/kan-na-ke-shu.html">砍哪颗树</a></h3>
-	<h6>Written by <a href="/author/sing.html">sing</a> in <a href="/category/ming-xiang.html">冥想</a> on 周三 27 五月 2020.</h6>
-	<h2>砍哪颗树</h2>
-<p>一个老和尚问弟子们，如果去山上砍树，正好面前有两棵树，一棵粗，另一棵细，会砍哪一棵？
-老和尚问：“如果你去山上 …</p>
-		<p class="continue"><a href="/kan-na-ke-shu.html">Continue reading &raquo;</a></p>
-</article>
-<hr />
+
+  <div class="pagination">
+  </div>
 
 
-						</div>
-						<!-- End Main Content -->
-						<!-- Sidebar -->
-						<aside class="medium-3 hide-for-small-only columns">
-							<div class="panel">
-								<h5>Places</h5>
-								<ul class="side-nav">
-									<li><a href="https://getpelican.com/">Pelican</a></li>
-									<li><a href="https://www.python.org/">Python.org</a></li>
-									<li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
-									<li><a href="#">You can modify those links in your config file</a></li>
-								</ul>
-							</div>
 
-							<div class="panel">
-								<h5>Tags</h5>
-								<ul class="tag-cloud">
-								</ul>
-							</div>
+<footer>
+<p>&copy;  </p>
+<p>
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+</p></footer>  </main>
 
-
-							<div class="panel">
-								<h5>Links</h5>
-								<ul class="side-nav">
-									<li><a href="#">Another social link</a></li>
-									<li><a href="#">You can add links in your config file</a></li>
-								</ul>
-							</div>
-						</aside>
-						<!-- End Sidebar -->
-					</div>
-
-					<!-- Footer -->
-					<footer class="row">
-						<div class="medium-9 small-12">
-							<p class="text-center">Powered by <a href="http://getpelican.com">Pelican</a> and <a href="http://foundation.zurb.com/">Zurb Foundation</a>. Theme by <a href="http://hamaluik.com">Kenton Hamaluik</a>.</p>
-						</div>
-					</footer>
-					<!-- End Footer -->
-				</section>
-				<a class="exit-off-canvas"></a>
-			</div><!--off-canvas inner-->
-		</div><!--off-canvas wrap-->
-
-		<script src="/theme/js/jquery.js"></script>
-		<script src="/theme/js/foundation.min.js"></script>
-		<script>
-			$(document).foundation();
-		</script>
-	</body>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " zen|tech|seo| ",
+  "url" : "",
+  "image": "",
+  "description": ""
+}
+</script>
+</body>
 </html>
